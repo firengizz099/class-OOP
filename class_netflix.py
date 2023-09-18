@@ -46,9 +46,9 @@ class Netflix:
 
 # Netflix sınıfını kullanarak örnek işlemler:
 netflix = Netflix()
-netflix.create_user('Aleyna', '123456')
-netflix.login('Aleyna', '123456')
-netflix.create_profile('Aleyna', 'Aleyna Profili')
-netflix.add_to_watchlist('Aleyna', 'Aleyna Profili', 'The Irishman')
+netflix.create_user('Firengiz', '123456')
+netflix.login('Firengiz', '123456')
+netflix.create_profile('Firengiz', 'Firengiz Profili')
+netflix.add_to_watchlist('Firengiz', 'Firengiz Profili', 'The Irishman')
 search_results = netflix.search_content('The Irishman')
 print('Arama Sonuçları:', search_results)
