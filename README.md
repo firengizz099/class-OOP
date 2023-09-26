@@ -13,7 +13,7 @@ __init__ Metodu: Sınıfın başlatıcı metodu, sınıfın ilk oluşturulduğun
 
 4) **create_profile Metodu: Bu metot, kullanıcıların yeni profiller oluşturmasını simüle eder. Kullanıcı adı ve profil adı alır, bu bilgileri kullanıcı sözlüğündeki ilgili kullanıcının profiller sözlüğüne ekler ve profil adının benzersiz olup olmadığını kontrol eder.**
 
-5) search_content Metodu: Bu metot, belirli bir anahtar kelimeye göre içerik aramasını simüle eder. Bu örnekte, içeriklerin basit bir liste halinde olduğunu varsayar ve anahtar kelimenin içeriğin adında olup olmadığını kontrol eder.
+5) **search_content Metodu: Bu metot, belirli bir anahtar kelimeye göre içerik aramasını simüle eder. Bu örnekte, içeriklerin basit bir liste halinde olduğunu varsayar ve anahtar kelimenin içeriğin adında olup olmadığını kontrol eder.**
 
 6) add_to_watchlist Metodu: Bu metot, kullanıcının izleme listesine içerik eklemesini simüle eder. Kullanıcı adı, profil adı ve içerik adı alır, bu bilgileri kullanıcı sözlüğündeki ilgili kullanıcının profiller sözlüğündeki ilgili profili ve izleme listesini kullanarak işler.
 
