@@ -7,7 +7,7 @@
 
 __init__ Metodu: Sınıfın başlatıcı metodu, sınıfın ilk oluşturulduğunda çalışır ve kullanıcıları ve profilleri saklamak için boş bir sözlük olan users'ı başlatır.**
 
-2) create_user Metodu: Bu metot, yeni kullanıcılar oluşturmayı simüle eder. Kullanıcı adı ve şifre alır, bu bilgileri bir kullanıcı sözlüğüne ekler ve kullanıcı adının benzersiz olup olmadığını kontrol eder.
+2) **create_user Metodu: Bu metot, yeni kullanıcılar oluşturmayı simüle eder. Kullanıcı adı ve şifre alır, bu bilgileri bir kullanıcı sözlüğüne ekler ve kullanıcı adının benzersiz olup olmadığını kontrol eder.**
 
 3) login Metodu: Bu metot, kullanıcıların giriş yapmasını simüle eder. Kullanıcı adı ve şifre ile giriş yapmayı kontrol eder.
 
