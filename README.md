@@ -17,4 +17,4 @@ __init__ Metodu: Sınıfın başlatıcı metodu, sınıfın ilk oluşturulduğun
 
 6) **add_to_watchlist Metodu: Bu metot, kullanıcının izleme listesine içerik eklemesini simüle eder. Kullanıcı adı, profil adı ve içerik adı alır, bu bilgileri kullanıcı sözlüğündeki ilgili kullanıcının profiller sözlüğündeki ilgili profili ve izleme listesini kullanarak işler.**
 
-Kodun sonunda, Netflix sınıfını kullanarak bazı örnek işlemler yapılır. Kullanıcı oluşturulur, giriş yapılır, profil oluşturulur, izleme listesine içerik eklenir ve içerik araması yapılır.
+**Kodun sonunda, Netflix sınıfını kullanarak bazı örnek işlemler yapılır. Kullanıcı oluşturulur, giriş yapılır, profil oluşturulur, izleme listesine içerik eklenir ve içerik araması yapılır.**
