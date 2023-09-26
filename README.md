@@ -1,7 +1,7 @@
 # Class-OOP
 ![App Screenshot](https://github.com/firengizz099/class-OOP/blob/main/class.png?raw=true)
 
-**Bu kod örneği, bir Netflix sınıfını ve bu sınıfı kullanarak bazı temel işlemleri simüle ediyor.*
+**Bu kod örneği, bir Netflix sınıfını ve bu sınıfı kullanarak bazı temel işlemleri simüle ediyor.**
 
 1) **Netflix Sınıfı: Bu sınıf, Netflix benzeri bir platformun temel işlevselliğini temsil etmek için oluşturulmuş bir sınıftır.
 
