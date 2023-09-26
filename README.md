@@ -3,9 +3,9 @@
 
 **Bu kod örneği, bir Netflix sınıfını ve bu sınıfı kullanarak bazı temel işlemleri simüle ediyor.**
 
-1) Netflix Sınıfı: Bu sınıf, Netflix benzeri bir platformun temel işlevselliğini temsil etmek için oluşturulmuş bir sınıftır.
+1) **Netflix Sınıfı: Bu sınıf, Netflix benzeri bir platformun temel işlevselliğini temsil etmek için oluşturulmuş bir sınıftır.
 
-__init__ Metodu: Sınıfın başlatıcı metodu, sınıfın ilk oluşturulduğunda çalışır ve kullanıcıları ve profilleri saklamak için boş bir sözlük olan users'ı başlatır.
+__init__ Metodu: Sınıfın başlatıcı metodu, sınıfın ilk oluşturulduğunda çalışır ve kullanıcıları ve profilleri saklamak için boş bir sözlük olan users'ı başlatır.**
 
 2) create_user Metodu: Bu metot, yeni kullanıcılar oluşturmayı simüle eder. Kullanıcı adı ve şifre alır, bu bilgileri bir kullanıcı sözlüğüne ekler ve kullanıcı adının benzersiz olup olmadığını kontrol eder.
 
